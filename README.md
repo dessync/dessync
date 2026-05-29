@@ -1,12 +1,13 @@
 # Hello there 👋
 
-My name is Destiny, a cybersecurity student (B.S.) focused on Blue Team / SOC, 
-incident response, and cloud security.
+Hey, I'm Destiny — a cybersecurity grad (B.S., Champlain College) focused on Blue Team operations, SOC analysis, and incident response.
 
-Some of the tools I use are Wireshark, VirtualBox/VMware Workstation, Kali Linux, WinSCP, FileZilla, AWS CloudWatch, AWS GuardDuty, Windows Registry analysis, inSSIDer, NetAlly, Site Survey, PyCharm, & Visual Studio.
+I'm currently pursuing entry-level roles in security while building out hands-on projects in threat detection, network analysis, and cloud security.
 
-Some fun facts:
+Tools & tech I work with:
+Wireshark Kali Linux VirtualBox VMware AWS CloudWatch AWS GuardDuty Windows Registry WinSCP FileZilla inSSIDer NetAlly PyCharm VS Code
 
-- I own 6 guitars.
-- My favorite color is purple.
-- My favorite video game series is Assassin's Creed.
+A few things about me:
+🎸 I own 6 guitars
+🟣 Purple is my color
+🗡️ Assassin's Creed has my whole heart
