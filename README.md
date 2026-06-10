@@ -8,6 +8,9 @@ Tools & tech I work with:
 Wireshark Kali Linux VirtualBox VMware AWS CloudWatch AWS GuardDuty Windows Registry WinSCP FileZilla inSSIDer NetAlly PyCharm VS Code
 
 A few things about me:
+
 🎸 I own 6 guitars
+
 🟣 Purple is my color
+
 🗡️ Assassin's Creed is my favorite game series
