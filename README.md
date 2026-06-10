@@ -10,4 +10,4 @@ Wireshark Kali Linux VirtualBox VMware AWS CloudWatch AWS GuardDuty Windows Regi
 A few things about me:
 🎸 I own 6 guitars
 🟣 Purple is my color
-🗡️ Assassin's Creed has my whole heart
+🗡️ Assassin's Creed is my favorite game series
