@@ -5,7 +5,7 @@ Hey, I'm Destiny — a cybersecurity grad (B.S., Champlain College) focused on B
 I'm currently pursuing entry-level roles in security while building out hands-on projects in threat detection, network analysis, and cloud security.
 
 Tools & tech I work with:
-Wireshark Kali Linux VirtualBox VMware AWS CloudWatch AWS GuardDuty Windows Registry WinSCP FileZilla inSSIDer NetAlly PyCharm VS Code
+Wireshark, Kali Linux, VirtualBox, VMware, AWS CloudWatch, AWS GuardDuty, Windows Registry, WinSCP, FileZilla, inSSIDer, NetAlly, PyCharm, VS Code
 
 A few things about me:
 
